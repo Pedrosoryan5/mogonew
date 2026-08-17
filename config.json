@@ -1,0 +1,47 @@
+{
+  "adb_path": "C:\\LDPlayer\\LDPlayer9\\adb.exe",
+  "serial": "",
+  "fallback": [
+    65,
+    305
+  ],
+  "roll_points": {
+    "1": [
+      65,
+      305
+    ],
+    "5": [
+      152,
+      303
+    ],
+    "10": [
+      259,
+      292
+    ],
+    "20": [
+      374,
+      308
+    ],
+    "50": [
+      480,
+      308
+    ]
+  },
+  "default_roll_multiplier": 1,
+  "avoid_roll_multiplier": 5,
+  "threshold": 0.86,
+  "scan_delay": 0.7,
+  "after_roll_delay": 0.9,
+  "after_target_delay": 1.1,
+  "prefer_highest_multiplier": true,
+  "highest_multiplier_for_all_targets": true,
+  "priority": [
+    "LEGENDS",
+    "LUXURY_TAX",
+    "INCOME_TAX"
+  ],
+  "disabled": [
+    "RR",
+    "CHANCE"
+  ]
+}
